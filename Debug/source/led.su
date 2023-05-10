@@ -1,0 +1,5 @@
+../source/led.c:35:6:led_init	8	static
+../source/led.c:62:6:led_BLUE_ON	8	static
+../source/led.c:75:6:led_RED_ON	8	static
+../source/led.c:86:6:led_GREEN_ON	8	static
+../source/led.c:97:6:led_OFF	8	static

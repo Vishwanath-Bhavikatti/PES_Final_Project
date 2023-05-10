@@ -1,0 +1,8 @@
+../source/lcd.c:61:6:lcd_init	8	static
+../source/lcd.c:86:6:write_nibble	24	static
+../source/lcd.c:133:6:lcd_cmd	16	static
+../source/lcd.c:161:6:start_lcd	8	static
+../source/lcd.c:177:6:clear_lcd	8	static
+../source/lcd.c:189:9:lcd_string_write	24	static
+../source/lcd.c:223:6:lcd_data_write	32	static
+../source/lcd.c:257:6:lcd_data_write_int	48	static

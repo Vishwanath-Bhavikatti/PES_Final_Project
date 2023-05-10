@@ -1,0 +1,7 @@
+D:\FALL_2022\PES\hints\PES-Final_Project-main\Final_project\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+D:\FALL_2022\PES\hints\PES-Final_Project-main\Final_project\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+D:\FALL_2022\PES\hints\PES-Final_Project-main\Final_project\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/uart0.c:46:6:Init_UART0	32	static
+../source/uart0.c:112:6:UART0_IRQHandler	24	static
+c:\nxp\mcuxpressoide_11.6.1_8255\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.1.202207200623\tools\redlib\include\sys\libconfig-arm.h:247:5:__sys_write	32	static
+c:\nxp\mcuxpressoide_11.6.1_8255\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.1.202207200623\tools\redlib\include\sys\libconfig-arm.h:241:5:__sys_readc	24	static
